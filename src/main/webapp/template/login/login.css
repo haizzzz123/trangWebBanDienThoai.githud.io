@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-weight: normal;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.login{
+    display: flex;
+    justify-content: center;
+
+}
+
+.login-header{
+   
+    
+}
+
+.login-header p{
+    font-size: 32px;
+    color: yellow;
+    background-color: #ccc;
+    text-align: center;
+    
+}
+
+.login-box{
+    width: 280px;
+    
+}
+
+.login-main {
+    
+}
+
+.login-main input{
+    width: 100%;
+}
+
+.login-btn{
+    height: 40px;
+    width: 150px;
+    color: white;
+    background-color: #0882d8c1;
+}
+
+.login-btn:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}

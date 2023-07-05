@@ -1,0 +1,14 @@
+.addproduct-main{
+	display: flex;
+    
+    justify-content: center;
+}
+
+.addproduct-btn{
+	    background: #ff9300;
+    height: 28px;
+    line-height: 28px;
+    text-align: center;
+    font-weight: 700;
+    width: 100px;
+}

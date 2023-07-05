@@ -1,0 +1,22 @@
+
+.content-body{
+    background-color: white;
+
+}
+.cart-table {
+    width: 100%;
+
+}
+.cart-table th,td{
+    border: 1px solid black;
+    border-collapse:collapse;
+    
+
+}
+
+.content-body button{
+    height: 68px;
+    width: 220px;
+    float: right;
+
+}

@@ -1,0 +1,15 @@
+.product-body{
+    margin-left: 4px;
+    background-color: white;    
+
+}
+
+.product-btn-buy-a{
+    background: #ff9300;
+    height: 28px;
+    line-height: 28px;
+    text-align: center;
+    font-weight: 700;
+    width: 100px;
+
+}

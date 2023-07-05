@@ -1,0 +1,17 @@
+.main-nick{
+    background-color: #ccc;
+}
+
+.main-nick table{
+    width: 100%;
+    
+
+}
+
+
+.main-nick th,td{
+    border: 1px solid black;
+    border-collapse:collapse;
+    
+
+}

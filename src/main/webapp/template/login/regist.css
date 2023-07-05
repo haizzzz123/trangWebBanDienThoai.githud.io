@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-weight: normal;
+    list-style-type: none;
+}
+
+.regist{
+    display: flex;
+    justify-content: center;
+
+}
+
+.regist-header{
+   
+    
+}
+
+.regist-header p{
+    font-size: 32px;
+    color: yellow;
+    background-color: #ccc;
+    text-align: center;
+    
+}
+
+.regist-box{
+    width: 280px;
+    
+}
+
+.regist-main {
+    
+}
+
+.regist-main input{
+    width: 100%;
+}
+
+.regist-btn{
+    height: 40px;
+    width: 150px;
+    color: white;
+    background-color: #0882d8c1;
+}
+
+.regist-btn:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
